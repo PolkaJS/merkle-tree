@@ -1,13 +1,13 @@
-# merkle-tree-zion-coin [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![Greenkeeper badge](https://badges.greenkeeper.io/zion-coin/merkle-tree-zion-coin.svg)](https://greenkeeper.io/)
+# merkle-tree [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![Greenkeeper badge](https://badges.greenkeeper.io/PolkaJS/merkle-tree.svg)](https://greenkeeper.io/)
 
-[travis-image]: https://travis-ci.org/zion-coin/merkle-tree-zion-coin.svg?branch=master
-[travis-url]: https://travis-ci.org/zion-coin/merkle-tree-zion-coin
-[npm-image]: https://img.shields.io/npm/v/merkle-tree-zion-coin.svg
-[npm-url]: https://npmjs.org/package/merkle-tree-zion-coin
-[downloads-image]: https://img.shields.io/npm/dm/merkle-tree-zion-coin.svg
-[downloads-url]: https://npmjs.org/package/merkle-tree-zion-coin
+[travis-image]: https://travis-ci.org/PolkaJS/merkle-tree.svg?branch=master
+[travis-url]: https://travis-ci.org/PolkaJS/merkle-tree
+[npm-image]: https://img.shields.io/npm/v/@polkajs/merkle-tree.svg
+[npm-url]: https://npmjs.org/package/@polkajs/merkle-tree
+[downloads-image]: https://img.shields.io/npm/dm/@polkajs/merkle-tree.svg
+[downloads-url]: https://npmjs.org/package/@polkajs/merkle-tree
 
-`const merkleTree = require('merkle-tree-zion-coin');`
+`const merkleTree = require('@polkajs/merkle-tree');`
 
 ``` javascript
 const merkleTree = require('./');

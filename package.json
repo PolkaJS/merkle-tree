@@ -1,5 +1,5 @@
 {
-  "name": "merkle-tree-zion-coin",
+  "name": "@polkajs/merkle-tree",
   "version": "1.4.3",
   "description": "Binary Merkle Tree for the blockchain",
   "main": "./lib/merkle-tree.js",
